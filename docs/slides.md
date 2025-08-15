@@ -46,8 +46,7 @@ Note: Reveal each risk, then map it to specific mitigation steps.
 
 ---
 
-## Next Steps & Contact
+## Next Steps
 
 - Publish to GitHub Pages and share with stakeholders.
 - Open in Speaker View with <kbd>s</kbd> to see notes.
-- Email: **23f1000968@ds.study.iitm.ac.in**
