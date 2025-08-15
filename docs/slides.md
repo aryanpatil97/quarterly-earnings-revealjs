@@ -51,6 +51,3 @@ Note: Reveal each risk, then map it to specific mitigation steps.
 - Publish to GitHub Pages and share with stakeholders.
 - Open in Speaker View with <kbd>s</kbd> to see notes.
 - Email: **23f1000968@ds.study.iitm.ac.in**
-23f1000968@ds.study.iitm.ac.in
-
-Note: This is the official email address included for the assignment check.
