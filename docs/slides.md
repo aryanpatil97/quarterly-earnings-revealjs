@@ -45,3 +45,8 @@ Note: Reveal each risk, then map it to specific mitigation steps.
 - Email: **23f1000968@ds.study.iitm.ac.in**
 
 Note: Close by confirming follow-ups and responsible owners.
+# Contact Information
+
+23f1000968@ds.study.iitm.ac.in
+
+Note: This is the official email address included for the assignment check.
